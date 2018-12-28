@@ -1,2 +1,2 @@
 # logos-peru
-Logos TDT Perú
+Estos son los logos de la TDT de Perú.
